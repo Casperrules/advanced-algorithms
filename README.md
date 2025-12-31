@@ -20,7 +20,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-advanced-algorithms = "0.1.0"
+advanced-algorithms = "0.1.4"
 ```
 
 ## 🧮 Algorithms Included
